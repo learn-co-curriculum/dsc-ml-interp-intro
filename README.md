@@ -6,7 +6,7 @@ If you feel like the term "machine learning interpretability" is a little tricky
 
 Instead of getting caught up in the semantics of what interpretability means, we should instead focus on the goals of our specific machine learning project and select the models and metrics that will reveal the information we are interested in most effectively.
 
-In this lesson, we will discuss different aspects of interpretability and how we can consider it during model selection. We will also discuss different approaches to generating useful results from machine learning models 
+In this lesson, we will discuss different aspects of interpretability and how we can consider it during model selection. We will also discuss different approaches to generating useful results from machine learning models.   
 
 ## Objectives
 
